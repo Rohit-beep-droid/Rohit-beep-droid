@@ -1,6 +1,5 @@
 - Hi, I’m @Rohit-beep-droid
-- I’m interested in Python, Java, C/C++, and JavaScript.
-- I’m currently learning C/C++ and a full-time university student.
+- I’m interested in Python, Java, PHP, C/C++, and JavaScript.
+- I’m currently learning React.js and a full-time university student.
 - I'm seeking an internship as a SWE or Data Engineer.
-- I’m also looking to collaborate on any project regarding Python or Java.
-- How to reach me rohit7barua@gmail.com
+- I’m also looking to collaborate on any project regarding Python, Java, JavaScript, and C.
